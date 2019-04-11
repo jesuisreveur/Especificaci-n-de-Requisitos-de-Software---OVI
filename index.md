@@ -20,11 +20,11 @@ En esta sección se proporcionará una introducción a todo el documento de Espe
  - Referencias
  - Visión general del documento.
 
-**Propósito
+**Propósito**
 
 En esta subsección se definirá el propósito del documento ERS y se especificará a quién va dirigido el documento.
 
-**Ámbito de Sistema
+**Ámbito de Sistema**
 
 En esta subsección:
 
@@ -33,15 +33,15 @@ En esta subsección:
  - Se describirán los beneficios, objetivos y metas que se espera alcanzar con el futuro sistema.
  - Se referenciarán todos aquellos documentos de nivel superior (Ej. en Ingeniería de Sistemas, que incluyen Hardware y Software,      debería mantenerse la consistencia con el documento de especificación de requisitos globales del sistema, si existe).
 
-**Definiciones
+**Definiciones**
 
 En esta subsección se definirán todos los términos, acrónimos y abreviaturas utilizadas en la ERS.
 
-**Referencias
+**Referencias**
 
 En esta subsección se mostrará una lista completa de todos los documentos referenciados en la ERS.
 
-**Visión general del documento
+**Visión general del documento**
 
 Esta subsección describe brevemente los contenidos y la organización del resto de la ERS.
 
