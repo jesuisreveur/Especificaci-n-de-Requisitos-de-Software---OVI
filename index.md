@@ -1,5 +1,16 @@
 ## Estándar IEEE830: Introducción
 
+**Objetivo general** 
+
+    Permitir que los estudiantes del curso “Análisis de Requisitos” accedan al material propio del mismo, de manera actualizada, pertinente y amigable con el usuario, y que corresponden a la Unidad 1 del desarrollo del curso.
+
+Objetivo específico 1: Proveer los recursos necesarios que permiten a los estudiantes acceso al material didáctico del curso, y conseguir que se cumplan con los objetivos generales del curso.
+
+Objetivo específico 2: Mostrar una metodología diferente a la tradicional en términos de acceso a recursos pedagógicos para el desarrollo del curso.
+
+Objetivo específico 3: Presentar de manera organizada la información requerida por estudiante para entender los contenidos de la unidad, y que de manera intuitiva este pueda navegar por el sitio sin dificultad.
+
+
 You can use the [editor on GitHub](https://github.com/jesuisreveur/OVI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
