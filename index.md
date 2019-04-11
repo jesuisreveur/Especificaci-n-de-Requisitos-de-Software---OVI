@@ -12,6 +12,8 @@
 
   3. Presentar de manera organizada la información requerida por estudiante para entender los contenidos de la unidad, y que de manera intuitiva este pueda navegar por el sitio sin dificultad.
 
+**Mapa del Sitio**
+
 En esta sección se proporcionará una introducción a todo el documento de Especificación de Requisitos Software(ERS). Consta de varias subsecciones:
 
  - Propósito
