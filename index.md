@@ -45,10 +45,6 @@ En esta subsección se mostrará una lista completa de todos los documentos refe
 
 Esta subsección describe brevemente los contenidos y la organización del resto de la ERS.
 
-h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
-
-
 You can use the [editor on GitHub](https://github.com/jesuisreveur/OVI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
