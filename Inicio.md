@@ -6,7 +6,7 @@
 
 **Objetivos Específicos:**
 
-  1. Proveer los recursos necesarios que permiten a los estudiantes acceso al material didáctico del curso, y conseguir que se cumplan con los objetivos generales del curso.
+  1. Proveer los recursos necesarios que permiten a los estudiantes acceso al material didáctico del curso, y conseguir que se cumplan con los objetivos generales del curso. 
 
   2. Mostrar una metodología diferente a la tradicional en términos de acceso a recursos pedagógicos para el desarrollo del curso.
 
