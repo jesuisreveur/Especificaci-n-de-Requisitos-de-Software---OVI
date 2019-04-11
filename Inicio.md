@@ -1,4 +1,4 @@
-## Estándar IEEE830: Introducción
+<h1 style="color:blue;">Estándar IEEE830: Introducción</h1>
 
 **Objetivo general** 
 
@@ -6,11 +6,11 @@
 
 **Objetivos Específicos:**
 
-    1. Proveer los recursos necesarios que permiten a los estudiantes acceso al material didáctico del curso, y conseguir que se cumplan con los objetivos generales del curso.
+  1. Proveer los recursos necesarios que permiten a los estudiantes acceso al material didáctico del curso, y conseguir que se cumplan con los objetivos generales del curso.
 
-    2. Mostrar una metodología diferente a la tradicional en términos de acceso a recursos pedagógicos para el desarrollo del curso.
+  2. Mostrar una metodología diferente a la tradicional en términos de acceso a recursos pedagógicos para el desarrollo del curso.
 
-    3. Presentar de manera organizada la información requerida por estudiante para entender los contenidos de la unidad, y que de manera intuitiva este pueda navegar por el sitio sin dificultad.
+  3. Presentar de manera organizada la información requerida por estudiante para entender los contenidos de la unidad, y que de manera intuitiva este pueda navegar por el sitio sin dificultad.
 
 
 You can use the [editor on GitHub](https://github.com/jesuisreveur/OVI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
